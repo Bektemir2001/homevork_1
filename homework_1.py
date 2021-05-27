@@ -1,3 +1,5 @@
+# Bektemir Kumarbay uulu
+# bektemirkumarbayuulu@gmail.com
 from random import randint
 ''' 1-задания '''
 lst = [92, 91, 49, 87, 74, 20, 94, 12, 64, 36, 97, 2, 96, 40, 97, 36, 32, 22, 80, 83, 49, 52, 62, 31,
